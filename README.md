@@ -3,7 +3,7 @@
 
 ## :rocket: Technologies ##
 
-<iframe src="https://giphy.com/embed/pBlrHDddfk5K4MQuA2" width="480" height="438" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pBlrHDddfk5K4MQuA2">via GIPHY</a></p>
+<img src="https://giphy.com/embed/pBlrHDddfk5K4MQuA2.gif" width="440" height="438" />
 
 The following tools were used in this project:
 
