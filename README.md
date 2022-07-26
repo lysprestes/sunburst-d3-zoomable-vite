@@ -1,9 +1,9 @@
-
 <h1 align="center">Sunburst D3 Zoomable Vite</h1>
 
-## :rocket: Technologies ##
+<img src="https://media.giphy.com/media/pBlrHDddfk5K4MQuA2/giphy.gif" width="auto"/>
 
-<img src="https://giphy.com/embed/pBlrHDddfk5K4MQuA2.gif" width="440" height="438" />
+
+## :rocket: Technologies ##
 
 The following tools were used in this project:
 
